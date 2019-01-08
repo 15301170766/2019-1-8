@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
  woshishei
+ <el-button>我是谁</el-button>
   </div>
 </template>
 
