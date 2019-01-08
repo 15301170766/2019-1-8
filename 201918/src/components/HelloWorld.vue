@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
  woshishei
- <el-button>我是谁heheh</el-button>
+ <el-button>我是谁</el-button>
  合并新增
   </div>
 </template>
